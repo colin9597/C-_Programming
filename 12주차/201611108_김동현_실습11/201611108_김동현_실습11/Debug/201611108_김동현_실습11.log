@@ -1,0 +1,4 @@
+﻿성훈형.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Complex const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVComplex@@@Z)이(가) 201611108_김동현_실습11.obj에 이미 정의되어 있습니다.
+성훈형.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class MyString const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVMyString@@@Z)이(가) 201611108_김동현_실습11.obj에 이미 정의되어 있습니다.
+성훈형.obj : error LNK2005: _main이(가) 201611108_김동현_실습11.obj에 이미 정의되어 있습니다.
+E:\수업\C++\12주차\201611108_김동현_실습11\Debug\201611108_김동현_실습11.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
